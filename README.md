@@ -55,4 +55,4 @@
   "password": "123",
   "phone": "1234567890",
   "userStatus": 1
-}'ading bash2.txt…]()
+}'ading bash2.txt…](*)
